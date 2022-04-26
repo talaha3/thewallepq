@@ -60,7 +60,7 @@ var phaseno = 0; //which slide
 var roundno = 1; //which round
 var name1;
 var name2;
-var empty = true; //checking if input is typed or not
+var empty = false; //checking if input is typed or not
 var limit = 0; //limit of balls for that round
 var winner;
 
