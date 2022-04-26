@@ -176,7 +176,7 @@ function drawboard(){
     }
 
     // #drawing bottom, left, right bar
-    barbottom = new Rect(w/2,h-2, w, 5, CENTER,0,0,0,0);
+     barbottom = new Rect(w/2,h+20, w, 50, CENTER,0,0,0,0);
     barleft = new Rect(0,h/2, 8, h, CENTER,5,100,0,0);
     barright = new Rect(w,h/2, 8, h, CENTER,100, 5,0,0)
 
